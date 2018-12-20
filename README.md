@@ -16,7 +16,7 @@ Project is created with:
 * Node.js
 
 ## Class Work
-The classWork folder is filled with programs/Max patches written throughout the semester for Algorithmic Composition
+The classWork folder is filled with programs/Max patches written throughout the semester for Algorithmic Composition, these programs sandbox the use of Max objects to implement fundamentals of music composition.
 
 ## Compositions
 The compositions folder contains a Stochastic, Deterministic, Interactive, and Stochastic-Interactive hybrid composition.
