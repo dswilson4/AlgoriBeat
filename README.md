@@ -4,14 +4,17 @@
 * [Setup](#setup)
 
 ## General info
-This project is simple Lorem ipsum dolor generator.
-	
+This project includes multiple programs and compositions of various flavors (Stochastic, Deterministic, and Interactive).  Leverages principles from disciplines including grammars, probability, and feedback systems to compose and generate sounds.
+
 ## Technologies
 Project is created with:
-* Lorem version: 12.3
-* Ipsum version: 2.33
-* Ament library version: 999
-	
+* JavaScript
+* Max
+* Node.js
+
+## Class Work
+The classWork folder is filled with programs/Max patches written throughout the semester for Algorithmic Composition
+
 ## Setup
 To run this project, install it locally using npm:
 
