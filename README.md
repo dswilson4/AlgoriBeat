@@ -2,6 +2,7 @@
 * [General info](#general-info)
 * [Technologies](#technologies)
 * [Class Work](#class-work)
+* [Compositions](#compositions)
 * [Setup](#setup)
 
 
@@ -16,6 +17,9 @@ Project is created with:
 
 ## Class Work
 The classWork folder is filled with programs/Max patches written throughout the semester for Algorithmic Composition
+
+## Compositions
+The compositions folder is filled with a Stochastic, Deterministic, Interactive, and Stochastic-Interactive hybrid composition.
 
 ## Setup
 To run this project, install it locally using npm:
