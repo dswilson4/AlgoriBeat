@@ -19,7 +19,7 @@ Project is created with:
 The classWork folder is filled with programs/Max patches written throughout the semester for Algorithmic Composition
 
 ## Compositions
-The compositions folder is filled with a Stochastic, Deterministic, Interactive, and Stochastic-Interactive hybrid composition.
+The compositions folder contains a Stochastic, Deterministic, Interactive, and Stochastic-Interactive hybrid composition.
 
 ## Setup
 To run this project, install it locally using npm:
