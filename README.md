@@ -15,7 +15,7 @@ Project is created with:
 * Max
 * Node.js
 
-![](https://giphy.com/embed/d83gqPSbqS3eBpQEUf)
+![](https://giphy.com/embed/d83gqPSbqS3eBpQEUf.webp)
 
 ## Class Work
 The classWork folder is filled with programs/Max patches written throughout the semester for Algorithmic Composition, these programs sandbox the use of Max objects to implement fundamentals of music composition.
