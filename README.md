@@ -1,3 +1,4 @@
+### Project Samples
 ## Step Sequencer  
 ![giphyStepSequencer](https://user-images.githubusercontent.com/33137497/56237073-1b6d1400-6059-11e9-8431-5c3656a8805e.gif)
 
@@ -16,21 +17,4 @@ Project is created with:
 * JavaScript
 * Max
 * Node.js
-
-## Project Samples
-
-
-## Class Work
-The classWork folder is filled with programs/Max patches written throughout the semester for Algorithmic Composition, these programs sandbox the use of Max objects to implement fundamentals of music composition.
-
-## Compositions
-The compositions folder contains a Stochastic, Deterministic, Interactive, and Stochastic-Interactive hybrid composition.
-
-## Setup
-To run this project, install it locally using npm:
-
-```
-$ cd ../lorem
-$ npm install
-$ npm start
-```
+* OpenGL
