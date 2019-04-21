@@ -1,5 +1,5 @@
 ## Technologies
-Project is created with:
+Projects were created with a combination of:
 * JavaScript
 * Max
 * Node.js
